@@ -1,0 +1,36 @@
+
+body{
+  background-color: rgb(181, 181, 225);
+}
+
+
+/* Header.css */
+.header {
+  background-color: #1d1515;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Content.css */
+.content {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Different colors for different Content components */
+.blue { color: blue; 
+font-size: x-large;}
+.red { color: red;
+font-size: x-large; }
+.green { color: green; 
+font-size: x-large;}
+
+/* Footer.css */
+.footer {
+  background-color: #1d1515;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
